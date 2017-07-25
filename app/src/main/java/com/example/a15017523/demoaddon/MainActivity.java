@@ -8,7 +8,7 @@ import com.squareup.picasso.Picasso;
 
 public class MainActivity extends AppCompatActivity {
 
-    ImageView iv, iv2;
+    ImageView iv;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
